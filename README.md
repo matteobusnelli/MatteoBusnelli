@@ -9,7 +9,7 @@
 - 📄 My Curriculum Vitae
      - [English version](https://www.canva.com/design/DAF2C45ttkg/ePjyt4zRqiAsw48xSiDPEw/view?utm_content=DAF2C45ttkg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
      - [Versione italiana](https://www.canva.com/design/DAF7lIDZeFA/9J6wvvCNnRyx1aJGpJbNzQ/view?utm_content=DAF7lIDZeFA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- 🧑‍💻 [My Website](htttps://www.github.com/matteobusnelli)
+- 🧑‍💻 [My Website](https://www.github.com/matteobusnelli)
 
 <h3 align="left">Skills:</h3>
 <p align="left">
