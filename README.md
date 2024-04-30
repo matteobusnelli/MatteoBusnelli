@@ -6,7 +6,9 @@
 - 👨‍💼 Currently working as full stack engineer at Tera System Srl, since July 2022.
 - 📚 Currently enrolled at Polytechnic of Turin master’s degree in software engineering.
 - 🎓 Bachelor degree in Management/Computer Engineering at Polytechnic of Turin
-- 📄 [View](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf) my Curriculum Vitae
+- 📄 My Curriculum Vitae
+     - [English version](https://github.com/matteobusnelli/MatteoBusnelli/blob/master/CV_eng.pdf)
+     - [Versione italiana](https://github.com/matteobusnelli/MatteoBusnelli/blob/master/CV_ita.pdf)
 
 
 <h3 align="left">Skills:</h3>
