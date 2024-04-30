@@ -47,5 +47,5 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-    <a href="www.linkedin.com/in/matteo-busnelli-935a33250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="http://www.linkedin.com/in/matteo-busnelli-935a33250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
