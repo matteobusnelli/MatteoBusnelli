@@ -7,8 +7,8 @@
 - 📚 Currently enrolled at Polytechnic of Turin master’s degree in software engineering.
 - 🎓 Bachelor degree in Management/Computer Engineering at Polytechnic of Turin
 - 📄 My Curriculum Vitae
-     - [English version](https://github.com/matteobusnelli/MatteoBusnelli/blob/master/CV_eng.pdf)
-     - [Versione italiana](https://github.com/matteobusnelli/MatteoBusnelli/blob/master/CV_ita.pdf)
+     - [English version](https://www.canva.com/design/DAF2C45ttkg/ePjyt4zRqiAsw48xSiDPEw/view?utm_content=DAF2C45ttkg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+     - [Versione italiana](https://www.canva.com/design/DAF7lIDZeFA/9J6wvvCNnRyx1aJGpJbNzQ/view?utm_content=DAF7lIDZeFA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 <h3 align="left">Skills:</h3>
