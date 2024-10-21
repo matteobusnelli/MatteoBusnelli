@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIxZW80cnc4eXdndjd5NTVkNWI1eWc3NmVkcHdseGdrcjh2aHl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👨‍💼 Currently working as full stack engineer at Lasting Dynamics Slu, since October 2024.
+- 👨‍💼 Currently working as software engineer at Lasting Dynamics Slu, since October 2024.
 - 📚 Currently enrolled at Polytechnic of Turin master’s degree in software engineering.
 - 🎓 Bachelor degree in Management/Computer Engineering at Polytechnic of Turin
 - 📄 My Curriculum Vitae
