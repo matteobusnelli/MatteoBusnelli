@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3>I'm a Software engineer at Lasting Dynamics Slu and a student at Polytechnic of Turin</h3>
+<h3>I'm a Software engineer at Lasting Dynamics Slu and a master graduated student at Polytechnic of Turin</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIxZW80cnc4eXdndjd5NTVkNWI1eWc3NmVkcHdseGdrcjh2aHl1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
