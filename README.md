@@ -8,7 +8,7 @@
 - 🎓 Bachelor degree in Management/Computer Engineering at Polytechnic of Turin.
 - 📄 My Curriculum Vitae
      - [English version](https://www.canva.com/design/DAF2C45ttkg/ePjyt4zRqiAsw48xSiDPEw/view?utm_content=DAF2C45ttkg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-     - [Versione italiana](https://www.canva.com/design/DAF7lIDZeFA/9J6wvvCNnRyx1aJGpJbNzQ/view?utm_content=DAF7lIDZeFA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+     - [Versione italiana](https://www.canva.com/design/DAG8Uq1wqlc/HaTmNN8OyRICB1lYRR6jlg/edit?utm_content=DAG8Uq1wqlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Skills:</h3>
 <p align="left">
